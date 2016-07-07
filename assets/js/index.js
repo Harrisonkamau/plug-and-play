@@ -13,12 +13,12 @@ $(document).ready(function(){
         return false;
     });
     // JS for highlight selected button
-      $(function() {
-          $("a").click(function() {
-            // remove classes from all
-            $("a").removeClass("active");
-            // add class to the one we clicked
-            $(this).addClass("active");
-         });
-      });
+        $(function() {
+            $("a").click(function() {
+              // remove classes from all
+              $("a").removeClass("active");
+              // add class to the one we clicked
+              $(this).addClass("active");
+           });
+        });
 });
