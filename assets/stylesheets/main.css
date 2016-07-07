@@ -21,6 +21,7 @@
 }
 .navbar a:hover {
   border-bottom: 3px solid white;
+  color: white;
 }
 .nav {
   float: right;
@@ -92,8 +93,8 @@
   margin-top: 50px;
   margin-bottom: 80px;
   /*margin-left: 70px;*/
-  margin-left: 20px;
-  margin-right: 20px;
+  margin-left: 44px;
+  margin-right: 43px;
   /*margin-right: 70px;*/
   padding-top: 60px;
   /*padding-bottom: 60px;*/
@@ -103,4 +104,19 @@
 .box p{
   font-size: 24px;
   font-family: 'Abel', sans-serif;
+}
+
+
+#dev1 {
+  background: #eeeeee;
+  padding-top: 80px;
+  margin-top: -90px;
+  margin-bottom: -180px;
+}
+#dev2{
+  background: #eeeeee;
+  padding-bottom: 10px;
+  margin-bottom: 0;
+  height: 350px;
+
 }
