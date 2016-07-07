@@ -11,7 +11,7 @@
   .logo h1{
     font-family: 'Lobster', cursive;
     color:#fff;
-    padding-top: 90px;
+    padding-top: 70px;
     padding-left: 30px;
     font-family: 'Slabo 27px', serif;
   }
@@ -119,4 +119,44 @@
   margin-bottom: 0;
   height: 350px;
 
+}
+
+#our-work p{
+  color:  #795548;
+}
+
+
+.text-center a{
+  text-align: center;
+  color: grey;
+  display: inline-block;
+}
+.text-center li{
+  vertical-align: top;
+  display: inline-block;
+  padding-left: 4px;
+  padding-right: 4px;
+  font-size: 15px;
+
+}
+
+.text-center a:hover {
+  border-bottom: 3px solid black;
+  color: grey;
+}
+
+#engage {
+  background-image:url(../images/Banner.jpg);"
+}
+
+.clearfix:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.vertical-center {
+  color: #fff;
+  text-align: center;
+  /*padding-top: 60px;*/
 }
