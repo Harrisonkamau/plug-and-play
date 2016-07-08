@@ -160,3 +160,25 @@
   text-align: center;
   /*padding-top: 60px;*/
 }
+
+
+/*Footer*/
+
+.primary-footer {
+  background: black;
+}
+.primary-footer h5 {
+  color: green;
+  background: grey;
+}
+.left{
+text-align:left;
+float:left;
+}
+.right{
+float:right;
+text-align:right;
+}
+.centered{
+text-align:center;
+}
